@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagdish Choudhary</h1>
-<h3 align="center">I'm a Third Year Student Pursuing Bachelors of Engineering in Electronics and Telecommunication.</h3>
+<h3 align="center">I'm a Final Year Student Pursuing Bachelors of Engineering in Electronics and Telecommunication.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagdishchoudhary04&label=Profile%20views&color=0e75b6&style=flat" alt="jagdishchoudhary04" /> </p>
 
 - 🔭 I’m currently working on [Quadcopter](https://github.com/JagdishChoudhary04/Quadcopter)
