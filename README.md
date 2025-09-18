@@ -51,15 +51,26 @@
 ---
 
 ### 📊 GitHub Stats
-<div style = "display: flex;">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagdishchoudhary04&show_icons=true&theme=radical" alt="stats" />
+  <!-- Overall Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jagdishchoudhary04&show_icons=true&theme=radical&token=YOUR_PERSONAL_ACCESS_TOKEN"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishchoudhary04&layout=compact&theme=radical" alt="top-langs" />
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishchoudhary04&layout=compact&theme=radical&token=YOUR_PERSONAL_ACCESS_TOKEN"
+    alt="Top languages"
+  />
 </p>
-</div>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagdishchoudhary04&theme=radical" alt="streak-stats" />
+  <!-- Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=jagdishchoudhary04&theme=radical"
+    alt="GitHub streak"
+  />
 </p>
