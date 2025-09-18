@@ -51,21 +51,10 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <!-- Overall Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jagdishchoudhary04&show_icons=true&theme=radical&token=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"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishchoudhary04&layout=compact&theme=radical&token=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"
-    alt="Top languages"
-  />
-</p>
+<div style = "display: flex;"> 
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jagdishchoudhary04&show_icons=true&theme=radical&token=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" /> </p> 
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishchoudhary04&layout=compact&theme=radical" alt="top-langs" /> </p> 
+</div>
 
 <p align="center">
   <!-- Streak Stats -->
