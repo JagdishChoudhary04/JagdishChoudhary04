@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jagdish Choudhary</h1>
-<h3 align="center">Final Year Engineering Student | Electronics & Telecommunication | Passionate about Coding & Electronics</h3>
+<h3 align="center"> SDE Intern Nurture Xcel </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jagdishchoudhary04&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
