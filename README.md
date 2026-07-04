@@ -1,65 +1,38 @@
-<h1 align="center">Hi, I'm Jagdish Choudhary</h1>
-<h3 align="center"> SDE Intern Nurture Xcel </h3>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>Ex-SDE Intern / Electronics Engineer.</strong> Building, breaking, and shipping.
+    </td>
+    <td align="right">
+      <a href="https://portfolio-git-main-jagdish-choudharys-projects-500beb06.vercel.app/"> Portfolio </a> ·
+      <a href="https://www.linkedin.com/in/choudhary-jagdish/"> LinkedIn </a> ·
+      <a href="https://x.com/pakaram31137"> X </a>
+      <a href="https://codolio.com/profile/Jagdish"> Coding Profile </a>
+      <a href="jagdishchoudhary9372@gmail.com"> Email </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagdishchoudhary04&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+<p>
+  <strong> Tech Stack </strong>
+  &nbsp;
 
----
-
-### 🚀 About Me
-- 🔭 Currently working on: [Quadcopter Project](https://github.com/JagdishChoudhary04/Quadcopter)  
-- 🌱 Exploring: Full Stack Development (MERN) & Data Structures & Algorithms (C++)  
-- 💡 Interested in: Software Development, IoT, and Embedded Systems  
-- 📫 Reach me at: **jagdishchoudhary9372@gmail.com**  
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/jagdish-choudhary-374a54245" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/jagdishchoudhary9268" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/jagdish_choudhary/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<div style = "display: flex;"> 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jagdishchoudhary04&show_icons=true&theme=radical&token=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" /> </p> 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishchoudhary04&layout=compact&theme=radical" alt="top-langs" /> </p> 
-</div>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=jagdishchoudhary04&theme=radical"
-    alt="GitHub streak"
-  />
+  <img alt="Python" src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" />
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-161B22?style=flat&logo=googlecloud&logoColor=4285F4" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" />
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=2B6F4E" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" />
 </p>
