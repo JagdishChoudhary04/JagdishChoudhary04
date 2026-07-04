@@ -4,10 +4,10 @@
       <strong>Ex-SDE Intern / Electronics Engineer.</strong> Building, breaking, and shipping.
     </td>
     <td align="right">
-      <a href="https://portfolio-git-main-jagdish-choudharys-projects-500beb06.vercel.app/"> . Portfolio </a> ·
+      <a href="https://portfolio-git-main-jagdish-choudharys-projects-500beb06.vercel.app/"> Portfolio </a> ·
       <a href="https://www.linkedin.com/in/choudhary-jagdish/"> LinkedIn </a> ·
-      <a href="https://x.com/pakaram31137"> X </a> .
-      <a href="https://codolio.com/profile/Jagdish"> Coding Profile </a> .
+      <a href="https://x.com/pakaram31137"> X </a> ·
+      <a href="https://codolio.com/profile/Jagdish"> Coding Profile </a> ·
       <a href="jagdishchoudhary9372@gmail.com"> Email </a>
     </td>
   </tr>
